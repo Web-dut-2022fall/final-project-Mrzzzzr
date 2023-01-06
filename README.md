@@ -1,1 +1,7 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9671672&assignment_repo_type=AssignmentRepo)
+主要功能：
+账号注册、激活、登录、密码找回等功能。
+个人中心页面支持个人信息、我的课程、我的收藏、我的消息管理。
+首页轮播图、机构、课程展示。
+支持讲师、课程、机构选项的全局搜索。
+侧边栏提供热门课程推荐、机构/讲师排名、课程咨询。
+支持授课机构按类别、按地区筛选，按学习人数、课程数排序。
